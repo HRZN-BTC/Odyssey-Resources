@@ -11,7 +11,8 @@ It will be **continuously updated** with new knowledge, recommended platforms, a
 ## 📜 What You'll Find Here
 
 - **[Glossary](glossary.md)** – A Bitcoin dictionary with clear explanations, friendly examples, and pirate flair 🏴‍☠️  
-- **[Resources](resources.md)** – Curated exchanges, wallets, learning materials, and tools for all experience levels 🧭  
+- **[Resources](resources.md)** – Curated exchanges, wallets, learning materials, and tools for all experience levels 🧭
+- **[Videos](videos.md)** – Beginner videos that simplify the learning needed to understand Bitcoin and why it's needed 🌊   
 - **Guides & Tips** – Best practices for self-custody, security, and safe sailing on the Bitcoin seas (coming soon!) 🗺️  
 - **Future Additions** – More categories, adventure quests, and sailor-approved recommendations ⚓
 
