@@ -18,4 +18,18 @@ A curated collection of informative and beginner-friendly videos to help you und
 
 ---
 
+## 3️⃣ The 2008 Financial Crisis in 13 Minutes
+**Link:** [Watch on YouTube](https://www.youtube.com/watch?v=KE-WJevx-7c)  
+**Description:** A short explanation of the 2008 financial crisis and how trust in the traditional banking system was lost
+[![Owning 0.1 Bitcoin](https://img.youtube.com/vi/KE-WJevx-7c/0.jpg)](https://www.youtube.com/watch?v=KE-WJevx-7c)
+
+---
+
+## 4️⃣ They Messed Up the Economy... So He Created This
+**Link:** [Watch on YouTube](https://www.youtube.com/watch?v=_pUOpoihjA4)  
+**Description:** Satoshi's response to the 2008 Financial Crisis explaining why bitcoin was created and details about how it works 
+[![Owning 0.1 Bitcoin](https://img.youtube.com/vi/_pUOpoihjA4/0.jpg)](https://www.youtube.com/watch?v=_pUOpoihjA4)
+
+---
+
 > 📌 More videos will be added over time to help you explore Bitcoin from different angles—technology, investing, and culture!
