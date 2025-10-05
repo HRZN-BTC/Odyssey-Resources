@@ -50,3 +50,13 @@ If you’ve discovered a new resource, term, or treasure worth sharing, here’s
 2. Create a new branch:  
    ```bash
    git checkout -b add-new-resource
+
+---
+
+## 🪙 Donations
+
+If you enjoy HRZN's projects and want to support our continued development, you can contribute Bitcoin directly to help us grow and maintain our tools. Any contribution, large or small, is greatly appreciated and helps fund ongoing innovation:
+
+Bitcoin Wallet Address: `bc1q8w4hs02l3vnyx95hanuc2lyzpvk97ty2fh5ng2`
+
+Your support enables us to keep building educational, secure, and user-friendly Bitcoin tools for beginners and enthusiasts alike.
