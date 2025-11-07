@@ -1,0 +1,53 @@
+Odyssey Lesson Plan
+
+1. Introduction to Money and the History of Currency
+ • What is money?
+ • Evolution from barter to digital currencies
+ • The problem with fiat currencies and central banking
+
+2. What Is Bitcoin?
+ • Overview of Bitcoin as a digital currency
+ • Who created Bitcoin? (Satoshi Nakamoto)
+ • Bitcoin's goals: decentralization, limited supply, censorship resistance
+
+3. How Bitcoin Works
+ • Blockchain basics
+ • What is mining?
+ • Nodes and the peer-to-peer network
+ • Public/private key cryptography
+
+4. Bitcoin vs Traditional Money
+ • Inflation and monetary policy
+ • Limited supply of Bitcoin (21 million cap)
+ • Trustless system vs centralized institutions
+
+5. Getting Started with Bitcoin
+ • How to buy Bitcoin
+ • Wallet types: custodial vs non-custodial
+ • How to send/receive Bitcoin safely
+
+6. Bitcoin Security
+ • Best practices for securing your Bitcoin
+ • Private key management and seed phrases
+ • Common scams and how to avoid them
+
+7. Bitcoin Use Cases
+ • Store of value (digital gold)
+ • Remittances and cross-border payments
+ • Micropayments and financial sovereignty
+
+8. The Bitcoin Ecosystem
+ • Exchanges, wallets, payment processors
+ • Bitcoin Lightning Network (brief intro)
+ • Mining industry and energy debate
+
+9. Risks, Challenges, and Criticisms
+ • Price volatility
+ • Regulatory uncertainty
+ • Environmental concerns
+ • Misconceptions and myths
+
+10. The Future of Bitcoin
+ • Potential for mass adoption
+ • Bitcoin's role in global finance
+ • Ongoing development and innovations
